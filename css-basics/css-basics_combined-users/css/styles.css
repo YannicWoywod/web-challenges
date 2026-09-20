@@ -64,6 +64,9 @@ li {
   margin: 0;
 }
 
+aside .user {
+  max-width: 250px;
+}
 /*
   Part 1
 
