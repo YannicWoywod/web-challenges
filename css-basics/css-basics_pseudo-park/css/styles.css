@@ -38,6 +38,9 @@
 
   💡 Select the animals by their class names and use the text-align property.
 */
+.giraffe {
+  text-align: center;
+}
 
 /* 
   The animals want some color! 🎨
