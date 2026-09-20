@@ -67,6 +67,7 @@ li {
 aside .user {
   max-width: 250px;
   padding: 12px;
+  border-radius: 4px;
 }
 /*
   Part 1
