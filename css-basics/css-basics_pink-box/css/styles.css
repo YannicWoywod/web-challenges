@@ -21,6 +21,7 @@ div {
   /* Make the text color "white". */
   color: white;
   /* Can you give the box round edges with a radius of 8px? */
-
+  corner-shape: round;
+  border-radius: 8px;
   /* ✨ Feel free to experiment! */
 }
