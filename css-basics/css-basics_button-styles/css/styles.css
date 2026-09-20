@@ -40,6 +40,7 @@ Make sure not to put your code into the comments, because then nothing will happ
   /* Style me! Change my color or background-color, or both! You can experiment with different color formats here, like HEX, RGB, etc. */
   color: palevioletred;
   background-color: blue;
+  font-size: 50px;
 }
 
 .button3 {
