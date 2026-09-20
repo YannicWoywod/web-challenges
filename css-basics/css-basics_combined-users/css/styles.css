@@ -102,6 +102,9 @@ aside .location {
   like <body>, <main>, <aside>, <ul>, and .user with labeled overlays for easy identification.
 */
 
+ul .user .bio {
+  display: none;
+}
 /*
   Part 2
 
